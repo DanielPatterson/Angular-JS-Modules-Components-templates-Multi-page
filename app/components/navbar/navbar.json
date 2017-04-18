@@ -1,0 +1,8 @@
+{
+    "brand": "YourBrand", 
+    
+    "links": [
+        {"id" : "", "name" : "Home"},
+		{"id" : "intro", "name" : "Intro"}
+    ]
+}
